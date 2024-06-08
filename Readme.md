@@ -89,8 +89,8 @@ Por favor seleccione la moneda de destino
 Resultado de la conversión: 100.00 USD = 85.00 EUR
 ```
 ## Capturas de Pantalla
-![Menú Principal](src/images/captura0.png)
-![Realizar una Conversión](src/images/captura1)
+![Menú Principal](src/images/captura1.png)
+![Realizar una Conversión](src/images/captura2.png)
 ![Historial de Conversiones](src/images/captura3.png)
 
 ## Contacto
