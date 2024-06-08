@@ -1,0 +1,8 @@
+Fecha y Hora: 2024-06-08 12:37:11, Origen: USD, Destino: PEN, Monto: 100.00, Resultado: 375.32
+Fecha y Hora: 2024-06-08 12:39:28, Origen: USD, Destino: USD, Monto: 100.00, Resultado: 100.00
+Fecha y Hora: 2024-06-08 12:42:32, Origen: USD, Destino: PEN, Monto: 100.00, Resultado: 375.32
+Fecha y Hora: 2024-06-08 12:42:45, Origen: PEN, Destino: USD, Monto: 375.32, Resultado: 100.36
+Fecha y Hora: 2024-06-08 12:42:54, Origen: USD, Destino: PEN, Monto: 100.00, Resultado: 375.32
+Fecha y Hora: 2024-06-08 12:43:02, Origen: ARS, Destino: PEN, Monto: 1000.00, Resultado: 4.34
+Fecha y Hora: 2024-06-08 13:12:37, Origen: USD, Destino: PEN, Monto: 100.00, Resultado: 375.32
+Fecha y Hora: 2024-06-08 13:12:56, Origen: ARS, Destino: PEN, Monto: 1000.00, Resultado: 4.34

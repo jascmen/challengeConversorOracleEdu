@@ -24,6 +24,7 @@ public class ConsultaMoneda {
         try {
             HttpResponse response = client.send(request,
                     HttpResponse.BodyHandlers.ofString());
+            setUrl(URI.create("https://v6.exchangerate-api.com/v6/16b700b2da720ec015fcacad/pair/"));
             return (String) response.body();
         } catch (Exception e) {
             throw new RuntimeException("Error al consultar la API");
@@ -34,5 +35,13 @@ public class ConsultaMoneda {
     public MonedaDTO convertFromJson(String moneda) {
         MonedaDTO monedaDTO = gson.fromJson(moneda, MonedaDTO.class);
         return monedaDTO;
+    }
+
+    public URI getUrl() {
+        return url;
+    }
+
+    public void setUrl(URI url) {
+        this.url = url;
     }
 }
